@@ -1,7 +1,6 @@
 
 # 👋 Hi, I'm [Rosyad](https://mhmdrosyad.github.io/infomee)!
-# 💫 About Me:
-🎓 Informatics Graduate  <br>🔧 Software Engineer & Developer<br>💻 Passionate about building efficient, scalable, and user-centric solutions.
+🎓 Informatics Graduate  <br>🔧 Fullstack Developer
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhmdrosyad_) 
